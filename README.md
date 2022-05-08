@@ -1,1 +1,1 @@
-# argocd-app-config
+# argocd-app-conf
