@@ -16,5 +16,5 @@ spec:
       - name: myapp
         image: stelios84/argocd:1.0
         ports:
-        - containerPort: 8080
+        - containerPort: 8089
 
